@@ -16,9 +16,11 @@ The program takes a single command-line argument — a numeric key — and encry
 - Implements shifting using modular arithmetic.
 
 ### Example Run
-$ ./caesar 13
-Plaintext: HELLO world!
-ciphertext: URYYB jbeyq!
+$ ./caesar 13 
+
+Plaintext: HELLO world! 
+
+ciphertext: URYYB jbeyq! 
 
 ## How to Run
 Compile and run using GCC with the CS50 library:
